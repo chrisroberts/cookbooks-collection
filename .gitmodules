@@ -1,0 +1,12 @@
+[submodule "geminabox"]
+	path = geminabox
+	url = git@github.com:chrisroberts/cookbook-geminabox
+[submodule "s3fs-fuse"]
+	path = s3fs-fuse
+	url = git@github.com:chrisroberts/cookbook-s3fs-fuse
+[submodule "gem_installer"]
+	path = gem_installer
+	url = git@github.com:chrisroberts/cookbook-gem_installer
+[submodule "notifier-setup"]
+	path = notifier-setup
+	url = git@github.com:chrisroberts/cookbook-notifier-setup
